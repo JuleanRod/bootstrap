@@ -1,0 +1,8 @@
+@media(min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+}
+.mb-3.mb-md-0 {
+    text-align: center;
+}
