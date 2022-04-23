@@ -6,3 +6,9 @@
 .mb-3.mb-md-0 {
     text-align: center;
 }
+
+body::before {
+    content: "";
+    display: block;
+    height: 60px;
+}
