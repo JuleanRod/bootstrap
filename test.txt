@@ -1,3 +1,7 @@
 Testing out merge conflict on this file..
 
 my change
+other 
+person
+making
+changes
