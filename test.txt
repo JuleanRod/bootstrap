@@ -1,1 +1,1 @@
-Testing out merge conflict on this file
+Testing out merge conflict on this file.
