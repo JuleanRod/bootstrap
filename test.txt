@@ -1,2 +1,1 @@
-Change mage on subranch(test1)
-
+Testing out merge conflict on this file
